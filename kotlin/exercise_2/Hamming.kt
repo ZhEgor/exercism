@@ -1,4 +1,4 @@
-package com.zhiroke.exercise_2
+package com.zhiroke.exercism.kotlin.exercise_2
 
 object Hamming {
 
